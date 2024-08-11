@@ -91,6 +91,8 @@ else:
 p is greater than 5.
 ```
 
+You can also select multiple lines of code and make them comments by  pressing command + forward slash
+
 # Escape Sequence Characters
 
 To insert characters that cannot be directly used in a string, we use an escape sequence character.
